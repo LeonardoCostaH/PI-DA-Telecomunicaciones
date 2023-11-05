@@ -1,0 +1,865 @@
+Año,Trimestre,Provincia,Accesos TV por suscripción
+2022,4,Buenos Aires,2.965.696
+2022,4,Capital Federal,738.948
+2022,4,Catamarca,54.332
+2022,4,Chaco,124.007
+2022,4,Chubut,80.548
+2022,4,Córdoba,1.144.232
+2022,4,Corrientes,138.275
+2022,4,Entre Ríos,232.681
+2022,4,Formosa,68.178
+2022,4,Jujuy,118.439
+2022,4,La Pampa,84.533
+2022,4,La Rioja,24.198
+2022,4,Mendoza,135.969
+2022,4,Misiones,144.537
+2022,4,Neuquén,75.837
+2022,4,Río Negro,106.441
+2022,4,Salta,216.928
+2022,4,San Juan,39.665
+2022,4,San Luis,48.667
+2022,4,Santa Cruz,36.885
+2022,4,Santa Fe,765.310
+2022,4,Santiago Del Estero,153.651
+2022,4,Tierra Del Fuego,44.077
+2022,4,Tucumán,137.991
+2022,3,Buenos Aires,2.998.021
+2022,3,Capital Federal,743.338
+2022,3,Catamarca,52.274
+2022,3,Chaco,121.771
+2022,3,Chubut,80.020
+2022,3,Córdoba,1.141.181
+2022,3,Corrientes,135.711
+2022,3,Entre Ríos,231.102
+2022,3,Formosa,68.010
+2022,3,Jujuy,116.493
+2022,3,La Pampa,74.175
+2022,3,La Rioja,24.224
+2022,3,Mendoza,133.136
+2022,3,Misiones,142.905
+2022,3,Neuquén,73.768
+2022,3,Río Negro,101.277
+2022,3,Salta,214.522
+2022,3,San Juan,39.324
+2022,3,San Luis,47.371
+2022,3,Santa Cruz,42.088
+2022,3,Santa Fe,758.933
+2022,3,Santiago Del Estero,151.092
+2022,3,Tierra Del Fuego,43.869
+2022,3,Tucumán,131.326
+2022,2,Buenos Aires,2.994.210
+2022,2,Capital Federal,745.194
+2022,2,Catamarca,52.137
+2022,2,Chaco,122.109
+2022,2,Chubut,79.115
+2022,2,Córdoba,1.141.123
+2022,2,Corrientes,132.406
+2022,2,Entre Ríos,230.101
+2022,2,Formosa,67.339
+2022,2,Jujuy,112.372
+2022,2,La Pampa,77.942
+2022,2,La Rioja,24.062
+2022,2,Mendoza,129.894
+2022,2,Misiones,142.495
+2022,2,Neuquén,75.772
+2022,2,Río Negro,107.552
+2022,2,Salta,213.618
+2022,2,San Juan,37.356
+2022,2,San Luis,47.129
+2022,2,Santa Cruz,42.016
+2022,2,Santa Fe,750.117
+2022,2,Santiago Del Estero,148.501
+2022,2,Tierra Del Fuego,42.480
+2022,2,Tucumán,132.544
+2022,1,Buenos Aires,2.975.672
+2022,1,Capital Federal,745.263
+2022,1,Catamarca,47.123
+2022,1,Chaco,119.743
+2022,1,Chubut,77.728
+2022,1,Córdoba,1.124.246
+2022,1,Corrientes,131.173
+2022,1,Entre Ríos,229.140
+2022,1,Formosa,67.264
+2022,1,Jujuy,109.925
+2022,1,La Pampa,78.656
+2022,1,La Rioja,23.751
+2022,1,Mendoza,120.661
+2022,1,Misiones,139.738
+2022,1,Neuquén,76.008
+2022,1,Río Negro,107.854
+2022,1,Salta,215.980
+2022,1,San Juan,34.474
+2022,1,San Luis,46.491
+2022,1,Santa Cruz,41.803
+2022,1,Santa Fe,744.319
+2022,1,Santiago Del Estero,145.552
+2022,1,Tierra Del Fuego,42.756
+2022,1,Tucumán,119.507
+2021,4,Buenos Aires,3.002.329
+2021,4,Capital Federal,746.094
+2021,4,Catamarca,44.924
+2021,4,Chaco,117.381
+2021,4,Chubut,76.640
+2021,4,Córdoba,1.118.579
+2021,4,Corrientes,116.488
+2021,4,Entre Ríos,229.305
+2021,4,Formosa,67.396
+2021,4,Jujuy,108.333
+2021,4,La Pampa,82.376
+2021,4,La Rioja,25.613
+2021,4,Mendoza,115.618
+2021,4,Misiones,139.606
+2021,4,Neuquén,76.685
+2021,4,Río Negro,111.231
+2021,4,Salta,206.327
+2021,4,San Juan,33.497
+2021,4,San Luis,46.426
+2021,4,Santa Cruz,41.732
+2021,4,Santa Fe,746.848
+2021,4,Santiago Del Estero,190.841
+2021,4,Tierra Del Fuego,42.441
+2021,4,Tucumán,110.048
+2021,3,Buenos Aires,2.976.570
+2021,3,Capital Federal,745.558
+2021,3,Catamarca,43.542
+2021,3,Chaco,115.548
+2021,3,Chubut,74.721
+2021,3,Córdoba,1.105.454
+2021,3,Corrientes,115.700
+2021,3,Entre Ríos,243.917
+2021,3,Formosa,66.173
+2021,3,Jujuy,107.881
+2021,3,La Pampa,81.056
+2021,3,La Rioja,20.724
+2021,3,Mendoza,112.397
+2021,3,Misiones,140.488
+2021,3,Neuquén,77.903
+2021,3,Río Negro,112.180
+2021,3,Salta,243.234
+2021,3,San Juan,34.008
+2021,3,San Luis,46.357
+2021,3,Santa Cruz,42.248
+2021,3,Santa Fe,824.741
+2021,3,Santiago Del Estero,190.674
+2021,3,Tierra Del Fuego,42.452
+2021,3,Tucumán,113.366
+2021,2,Buenos Aires,2.933.650
+2021,2,Capital Federal,741.498
+2021,2,Catamarca,42.816
+2021,2,Chaco,117.259
+2021,2,Chubut,73.909
+2021,2,Córdoba,1.072.980
+2021,2,Corrientes,112.659
+2021,2,Entre Ríos,222.673
+2021,2,Formosa,60.625
+2021,2,Jujuy,106.450
+2021,2,La Pampa,79.718
+2021,2,La Rioja,20.282
+2021,2,Mendoza,108.664
+2021,2,Misiones,140.283
+2021,2,Neuquén,78.122
+2021,2,Río Negro,111.055
+2021,2,Salta,195.472
+2021,2,San Juan,33.726
+2021,2,San Luis,45.688
+2021,2,Santa Cruz,42.352
+2021,2,Santa Fe,674.967
+2021,2,Santiago Del Estero,161.926
+2021,2,Tierra Del Fuego,42.158
+2021,2,Tucumán,114.139
+2021,1,Buenos Aires,2.924.732
+2021,1,Capital Federal,740.825
+2021,1,Catamarca,42.761
+2021,1,Chaco,118.321
+2021,1,Chubut,73.129
+2021,1,Córdoba,1.085.427
+2021,1,Corrientes,113.093
+2021,1,Entre Ríos,221.612
+2021,1,Formosa,60.478
+2021,1,Jujuy,106.851
+2021,1,La Pampa,80.094
+2021,1,La Rioja,19.675
+2021,1,Mendoza,106.177
+2021,1,Misiones,138.117
+2021,1,Neuquén,78.320
+2021,1,Río Negro,110.693
+2021,1,Salta,203.905
+2021,1,San Juan,33.922
+2021,1,San Luis,45.583
+2021,1,Santa Cruz,44.241
+2021,1,Santa Fe,686.902
+2021,1,Santiago Del Estero,159.550
+2021,1,Tierra Del Fuego,42.034
+2021,1,Tucumán,110.506
+2020,4,Buenos Aires,2.973.620
+2020,4,Capital Federal,757.638
+2020,4,Catamarca,42.098
+2020,4,Chaco,118.021
+2020,4,Chubut,73.236
+2020,4,Córdoba,1.073.026
+2020,4,Corrientes,111.852
+2020,4,Entre Ríos,216.322
+2020,4,Formosa,59.584
+2020,4,Jujuy,109.703
+2020,4,La Pampa,79.521
+2020,4,La Rioja,23.695
+2020,4,Mendoza,106.491
+2020,4,Misiones,138.446
+2020,4,Neuquén,79.485
+2020,4,Río Negro,111.495
+2020,4,Salta,203.833
+2020,4,San Juan,33.755
+2020,4,San Luis,45.791
+2020,4,Santa Cruz,44.340
+2020,4,Santa Fe,684.675
+2020,4,Santiago Del Estero,92.329
+2020,4,Tierra Del Fuego,42.442
+2020,4,Tucumán,111.110
+2020,3,Buenos Aires,2.952.288
+2020,3,Capital Federal,741.443
+2020,3,Catamarca,40.786
+2020,3,Chaco,119.932
+2020,3,Chubut,65.855
+2020,3,Córdoba,1.093.908
+2020,3,Corrientes,114.038
+2020,3,Entre Ríos,235.140
+2020,3,Formosa,60.169
+2020,3,Jujuy,109.266
+2020,3,La Pampa,79.243
+2020,3,La Rioja,19.678
+2020,3,Mendoza,104.996
+2020,3,Misiones,137.953
+2020,3,Neuquén,80.161
+2020,3,Río Negro,112.475
+2020,3,Salta,203.833
+2020,3,San Juan,33.664
+2020,3,San Luis,45.793
+2020,3,Santa Cruz,44.577
+2020,3,Santa Fe,690.129
+2020,3,Santiago Del Estero,91.593
+2020,3,Tierra Del Fuego,42.403
+2020,3,Tucumán,110.110
+2020,2,Buenos Aires,2.915.498
+2020,2,Capital Federal,738.178
+2020,2,Catamarca,40.214
+2020,2,Chaco,117.601
+2020,2,Chubut,64.113
+2020,2,Córdoba,1.098.162
+2020,2,Corrientes,111.516
+2020,2,Entre Ríos,218.562
+2020,2,Formosa,59.290
+2020,2,Jujuy,97.761
+2020,2,La Pampa,80.878
+2020,2,La Rioja,19.297
+2020,2,Mendoza,102.654
+2020,2,Misiones,142.174
+2020,2,Neuquén,79.434
+2020,2,Río Negro,111.595
+2020,2,Salta,202.609
+2020,2,San Juan,33.129
+2020,2,San Luis,45.905
+2020,2,Santa Cruz,43.719
+2020,2,Santa Fe,672.663
+2020,2,Santiago Del Estero,90.102
+2020,2,Tierra Del Fuego,41.920
+2020,2,Tucumán,97.161
+2020,1,Buenos Aires,2.955.174
+2020,1,Capital Federal,741.539
+2020,1,Catamarca,39.338
+2020,1,Chaco,114.564
+2020,1,Chubut,67.422
+2020,1,Córdoba,1.062.830
+2020,1,Corrientes,110.100
+2020,1,Entre Ríos,220.527
+2020,1,Formosa,59.239
+2020,1,Jujuy,97.650
+2020,1,La Pampa,79.897
+2020,1,La Rioja,18.853
+2020,1,Mendoza,103.132
+2020,1,Misiones,143.352
+2020,1,Neuquén,78.339
+2020,1,Río Negro,109.833
+2020,1,Salta,187.051
+2020,1,San Juan,30.303
+2020,1,San Luis,47.659
+2020,1,Santa Cruz,43.321
+2020,1,Santa Fe,670.943
+2020,1,Santiago Del Estero,88.946
+2020,1,Tierra Del Fuego,41.493
+2020,1,Tucumán,110.406
+2019,4,Buenos Aires,2.824.205
+2019,4,Capital Federal,896.441
+2019,4,Catamarca,41.031
+2019,4,Chaco,114.313
+2019,4,Chubut,69.894
+2019,4,Córdoba,1.113.585
+2019,4,Corrientes,109.763
+2019,4,Entre Ríos,220.415
+2019,4,Formosa,59.153
+2019,4,Jujuy,95.103
+2019,4,La Pampa,81.047
+2019,4,La Rioja,18.979
+2019,4,Mendoza,102.375
+2019,4,Misiones,144.435
+2019,4,Neuquén,76.801
+2019,4,Río Negro,110.594
+2019,4,Salta,189.127
+2019,4,San Juan,29.520
+2019,4,San Luis,48.422
+2019,4,Santa Cruz,47.954
+2019,4,Santa Fe,658.150
+2019,4,Santiago Del Estero,89.885
+2019,4,Tierra Del Fuego,41.577
+2019,4,Tucumán,113.416
+2019,3,Buenos Aires,2.737.691
+2019,3,Capital Federal,862.488
+2019,3,Catamarca,40.830
+2019,3,Chaco,111.542
+2019,3,Chubut,70.308
+2019,3,Córdoba,1.104.134
+2019,3,Corrientes,109.035
+2019,3,Entre Ríos,216.331
+2019,3,Formosa,59.066
+2019,3,Jujuy,91.428
+2019,3,La Pampa,82.596
+2019,3,La Rioja,20.088
+2019,3,Mendoza,103.899
+2019,3,Misiones,143.508
+2019,3,Neuquén,77.398
+2019,3,Río Negro,111.471
+2019,3,Salta,188.437
+2019,3,San Juan,30.778
+2019,3,San Luis,49.555
+2019,3,Santa Cruz,48.075
+2019,3,Santa Fe,655.582
+2019,3,Santiago Del Estero,89.673
+2019,3,Tierra Del Fuego,42.866
+2019,3,Tucumán,109.911
+2019,2,Buenos Aires,2.687.146
+2019,2,Capital Federal,810.521
+2019,2,Catamarca,33.085
+2019,2,Chaco,108.529
+2019,2,Chubut,87.680
+2019,2,Córdoba,1.063.751
+2019,2,Corrientes,108.390
+2019,2,Entre Ríos,211.624
+2019,2,Formosa,61.107
+2019,2,Jujuy,88.550
+2019,2,La Pampa,83.122
+2019,2,La Rioja,25.887
+2019,2,Mendoza,139.687
+2019,2,Misiones,141.493
+2019,2,Neuquén,79.179
+2019,2,Río Negro,108.723
+2019,2,Salta,185.491
+2019,2,San Juan,43.355
+2019,2,San Luis,53.561
+2019,2,Santa Cruz,52.539
+2019,2,Santa Fe,603.033
+2019,2,Santiago Del Estero,108.956
+2019,2,Tierra Del Fuego,45.811
+2019,2,Tucumán,117.489
+2019,1,Buenos Aires,2.687.325
+2019,1,Capital Federal,789.185
+2019,1,Catamarca,33.116
+2019,1,Chaco,107.090
+2019,1,Chubut,90.677
+2019,1,Córdoba,1.057.252
+2019,1,Corrientes,101.354
+2019,1,Entre Ríos,210.247
+2019,1,Formosa,56.736
+2019,1,Jujuy,87.894
+2019,1,La Pampa,81.351
+2019,1,La Rioja,25.931
+2019,1,Mendoza,140.501
+2019,1,Misiones,137.541
+2019,1,Neuquén,80.031
+2019,1,Río Negro,90.118
+2019,1,Salta,174.728
+2019,1,San Juan,44.083
+2019,1,San Luis,53.561
+2019,1,Santa Cruz,56.833
+2019,1,Santa Fe,599.988
+2019,1,Santiago Del Estero,109.220
+2019,1,Tierra Del Fuego,45.852
+2019,1,Tucumán,118.638
+2018,4,Buenos Aires,2.670.842
+2018,4,Capital Federal,750.996
+2018,4,Catamarca,33.545
+2018,4,Chaco,99.927
+2018,4,Chubut,90.602
+2018,4,Córdoba,1.056.763
+2018,4,Corrientes,102.243
+2018,4,Entre Ríos,208.263
+2018,4,Formosa,58.868
+2018,4,Jujuy,98.704
+2018,4,La Pampa,81.403
+2018,4,La Rioja,24.839
+2018,4,Mendoza,117.382
+2018,4,Misiones,137.821
+2018,4,Neuquén,80.025
+2018,4,Río Negro,91.252
+2018,4,Salta,176.841
+2018,4,San Juan,43.605
+2018,4,San Luis,55.183
+2018,4,Santa Cruz,56.941
+2018,4,Santa Fe,599.124
+2018,4,Santiago Del Estero,105.239
+2018,4,Tierra Del Fuego,46.184
+2018,4,Tucumán,125.380
+2018,3,Buenos Aires,2.698.193
+2018,3,Capital Federal,755.552
+2018,3,Catamarca,83.185
+2018,3,Chaco,99.165
+2018,3,Chubut,89.855
+2018,3,Córdoba,1.077.148
+2018,3,Corrientes,101.211
+2018,3,Entre Ríos,206.993
+2018,3,Formosa,59.888
+2018,3,Jujuy,91.767
+2018,3,La Pampa,83.258
+2018,3,La Rioja,24.018
+2018,3,Mendoza,117.513
+2018,3,Misiones,135.350
+2018,3,Neuquén,80.391
+2018,3,Río Negro,95.213
+2018,3,Salta,176.000
+2018,3,San Juan,45.075
+2018,3,San Luis,55.302
+2018,3,Santa Cruz,56.779
+2018,3,Santa Fe,630.700
+2018,3,Santiago Del Estero,108.875
+2018,3,Tierra Del Fuego,46.296
+2018,3,Tucumán,125.823
+2018,2,Buenos Aires,2.662.857
+2018,2,Capital Federal,742.742
+2018,2,Catamarca,78.493
+2018,2,Chaco,108.493
+2018,2,Chubut,74.729
+2018,2,Córdoba,1.114.481
+2018,2,Corrientes,100.369
+2018,2,Entre Ríos,211.237
+2018,2,Formosa,52.060
+2018,2,Jujuy,89.913
+2018,2,La Pampa,82.552
+2018,2,La Rioja,22.865
+2018,2,Mendoza,89.146
+2018,2,Misiones,134.960
+2018,2,Neuquén,78.776
+2018,2,Río Negro,87.667
+2018,2,Salta,169.029
+2018,2,San Juan,47.920
+2018,2,San Luis,57.243
+2018,2,Santa Cruz,53.338
+2018,2,Santa Fe,615.398
+2018,2,Santiago Del Estero,96.384
+2018,2,Tierra Del Fuego,41.093
+2018,2,Tucumán,119.017
+2018,1,Buenos Aires,2.654.174
+2018,1,Capital Federal,741.516
+2018,1,Catamarca,89.005
+2018,1,Chaco,109.742
+2018,1,Chubut,72.825
+2018,1,Córdoba,1.104.478
+2018,1,Corrientes,105.865
+2018,1,Entre Ríos,210.310
+2018,1,Formosa,52.510
+2018,1,Jujuy,88.658
+2018,1,La Pampa,83.823
+2018,1,La Rioja,23.758
+2018,1,Mendoza,88.337
+2018,1,Misiones,134.351
+2018,1,Neuquén,77.047
+2018,1,Río Negro,90.018
+2018,1,Salta,175.454
+2018,1,San Juan,37.444
+2018,1,San Luis,61.967
+2018,1,Santa Cruz,53.152
+2018,1,Santa Fe,623.481
+2018,1,Santiago Del Estero,96.378
+2018,1,Tierra Del Fuego,40.301
+2018,1,Tucumán,117.582
+2017,4,Buenos Aires,2.656.799
+2017,4,Capital Federal,740.372
+2017,4,Catamarca,29.391
+2017,4,Chaco,101.423
+2017,4,Chubut,71.048
+2017,4,Córdoba,1.040.718
+2017,4,Corrientes,105.842
+2017,4,Entre Ríos,209.564
+2017,4,Formosa,49.087
+2017,4,Jujuy,87.008
+2017,4,La Pampa,84.075
+2017,4,La Rioja,23.707
+2017,4,Mendoza,113.934
+2017,4,Misiones,133.485
+2017,4,Neuquén,77.174
+2017,4,Río Negro,90.862
+2017,4,Salta,176.445
+2017,4,San Juan,39.494
+2017,4,San Luis,62.682
+2017,4,Santa Cruz,50.206
+2017,4,Santa Fe,628.931
+2017,4,Santiago del Estero,96.330
+2017,4,Tierra del Fuego,40.083
+2017,4,Tucumán,117.365
+2017,3,Buenos Aires,2.571.840
+2017,3,Capital Federal,707.800
+2017,3,Catamarca,40.773
+2017,3,Chaco,90.293
+2017,3,Chubut,70.166
+2017,3,Córdoba,1.024.289
+2017,3,Corrientes,93.730
+2017,3,Entre Ríos,165.363
+2017,3,Formosa,49.376
+2017,3,Jujuy,84.664
+2017,3,La Pampa,99.694
+2017,3,La Rioja,23.965
+2017,3,Mendoza,113.715
+2017,3,Misiones,125.110
+2017,3,Neuquén,109.995
+2017,3,Río Negro,57.889
+2017,3,Salta,254.908
+2017,3,San Juan,39.530
+2017,3,San Luis,62.617
+2017,3,Santa Cruz,47.927
+2017,3,Santa Fe,615.939
+2017,3,Santiago del Estero,97.936
+2017,3,Tierra del Fuego,39.928
+2017,3,Tucumán,179.573
+2017,2,Buenos Aires,2.580.455
+2017,2,Capital Federal,708.949
+2017,2,Catamarca,40.448
+2017,2,Chaco,91.455
+2017,2,Chubut,72.663
+2017,2,Córdoba,1.019.606
+2017,2,Corrientes,93.029
+2017,2,Entre Ríos,162.496
+2017,2,Formosa,47.888
+2017,2,Jujuy,84.568
+2017,2,La Pampa,99.285
+2017,2,La Rioja,24.114
+2017,2,Mendoza,113.243
+2017,2,Misiones,123.028
+2017,2,Neuquén,110.681
+2017,2,Río Negro,58.240
+2017,2,Salta,256.395
+2017,2,San Juan,40.621
+2017,2,San Luis,54.893
+2017,2,Santa Cruz,50.140
+2017,2,Santa Fe,618.927
+2017,2,Santiago del Estero,97.231
+2017,2,Tierra del Fuego,38.896
+2017,2,Tucumán,179.233
+2017,1,Buenos Aires,2.572.848
+2017,1,Capital Federal,708.805
+2017,1,Catamarca,29.655
+2017,1,Chaco,87.920
+2017,1,Chubut,72.838
+2017,1,Córdoba,1.022.544
+2017,1,Corrientes,93.332
+2017,1,Entre Ríos,160.444
+2017,1,Formosa,48.699
+2017,1,Jujuy,84.116
+2017,1,La Pampa,101.390
+2017,1,La Rioja,24.415
+2017,1,Mendoza,116.672
+2017,1,Misiones,123.346
+2017,1,Neuquén,110.781
+2017,1,Río Negro,52.481
+2017,1,Salta,171.113
+2017,1,San Juan,40.819
+2017,1,San Luis,57.104
+2017,1,Santa Cruz,50.321
+2017,1,Santa Fe,612.749
+2017,1,Santiago del Estero,97.561
+2017,1,Tierra del Fuego,38.724
+2017,1,Tucumán,124.655
+2016,4,Buenos Aires,2.535.921
+2016,4,Capital Federal,712.478
+2016,4,Catamarca,30.124
+2016,4,Chaco,88.363
+2016,4,Chubut,72.721
+2016,4,Córdoba,1.009.280
+2016,4,Corrientes,93.490
+2016,4,Entre Ríos,155.923
+2016,4,Formosa,46.293
+2016,4,Jujuy,81.754
+2016,4,La Pampa,100.574
+2016,4,La Rioja,25.719
+2016,4,Mendoza,116.997
+2016,4,Misiones,123.220
+2016,4,Neuquén,110.825
+2016,4,Río Negro,54.014
+2016,4,Salta,172.942
+2016,4,San Juan,39.847
+2016,4,San Luis,54.337
+2016,4,Santa Cruz,50.923
+2016,4,Santa Fe,617.120
+2016,4,Santiago del Estero,98.021
+2016,4,Tierra del Fuego,38.707
+2016,4,Tucumán,124.208
+2016,3,Buenos Aires,2.521.023
+2016,3,Capital Federal,716.755
+2016,3,Catamarca,29.763
+2016,3,Chaco,90.191
+2016,3,Chubut,72.693
+2016,3,Córdoba,1.011.257
+2016,3,Corrientes,92.783
+2016,3,Entre Ríos,155.482
+2016,3,Formosa,46.371
+2016,3,Jujuy,84.547
+2016,3,La Pampa,90.884
+2016,3,La Rioja,24.599
+2016,3,Mendoza,116.331
+2016,3,Misiones,122.505
+2016,3,Neuquén,110.917
+2016,3,Río Negro,54.503
+2016,3,Salta,172.479
+2016,3,San Juan,42.357
+2016,3,San Luis,54.078
+2016,3,Santa Cruz,51.191
+2016,3,Santa Fe,614.627
+2016,3,Santiago del Estero,99.070
+2016,3,Tierra del Fuego,38.592
+2016,3,Tucumán,125.384
+2016,2,Buenos Aires,2.516.810
+2016,2,Capital Federal,717.928
+2016,2,Catamarca,29.641
+2016,2,Chaco,94.320
+2016,2,Chubut,72.833
+2016,2,Córdoba,1.005.624
+2016,2,Corrientes,92.714
+2016,2,Entre Ríos,155.110
+2016,2,Formosa,46.382
+2016,2,Jujuy,85.293
+2016,2,La Pampa,89.647
+2016,2,La Rioja,24.385
+2016,2,Mendoza,116.159
+2016,2,Misiones,122.257
+2016,2,Neuquén,111.025
+2016,2,Río Negro,54.753
+2016,2,Salta,174.345
+2016,2,San Juan,42.414
+2016,2,San Luis,53.963
+2016,2,Santa Cruz,51.724
+2016,2,Santa Fe,615.206
+2016,2,Santiago del Estero,99.076
+2016,2,Tierra del Fuego,38.086
+2016,2,Tucumán,124.686
+2016,1,Buenos Aires,2.503.121
+2016,1,Capital Federal,720.018
+2016,1,Catamarca,29.207
+2016,1,Chaco,91.403
+2016,1,Chubut,68.242
+2016,1,Córdoba,998.906
+2016,1,Corrientes,92.425
+2016,1,Entre Ríos,154.253
+2016,1,Formosa,46.370
+2016,1,Jujuy,84.849
+2016,1,La Pampa,89.605
+2016,1,La Rioja,24.225
+2016,1,Mendoza,116.180
+2016,1,Misiones,121.064
+2016,1,Neuquén,111.050
+2016,1,Río Negro,54.900
+2016,1,Salta,170.519
+2016,1,San Juan,42.207
+2016,1,San Luis,54.984
+2016,1,Santa Cruz,54.419
+2016,1,Santa Fe,610.811
+2016,1,Santiago del Estero,98.890
+2016,1,Tierra del Fuego,38.875
+2016,1,Tucumán,129.189
+2015,4,Buenos Aires,2.504.956
+2015,4,Capital Federal,716.866
+2015,4,Catamarca,29.356
+2015,4,Chaco,90.819
+2015,4,Chubut,68.847
+2015,4,Córdoba,994.334
+2015,4,Corrientes,94.401
+2015,4,Entre Ríos,154.461
+2015,4,Formosa,46.385
+2015,4,Jujuy,86.586
+2015,4,La Pampa,87.160
+2015,4,La Rioja,25.151
+2015,4,Mendoza,116.883
+2015,4,Misiones,119.199
+2015,4,Neuquén,111.106
+2015,4,Río Negro,56.550
+2015,4,Salta,172.954
+2015,4,San Juan,44.239
+2015,4,San Luis,54.524
+2015,4,Santa Cruz,55.004
+2015,4,Santa Fe,613.513
+2015,4,Santiago del Estero,99.921
+2015,4,Tierra del Fuego,37.687
+2015,4,Tucumán,125.200
+2015,3,Buenos Aires,2.505.777
+2015,3,Capital Federal,715.814
+2015,3,Catamarca,29.089
+2015,3,Chaco,92.709
+2015,3,Chubut,68.820
+2015,3,Córdoba,986.247
+2015,3,Corrientes,92.364
+2015,3,Entre Ríos,153.615
+2015,3,Formosa,46.414
+2015,3,Jujuy,85.777
+2015,3,La Pampa,86.107
+2015,3,La Rioja,25.779
+2015,3,Mendoza,117.481
+2015,3,Misiones,118.527
+2015,3,Neuquén,111.307
+2015,3,Río Negro,57.112
+2015,3,Salta,170.310
+2015,3,San Juan,43.576
+2015,3,San Luis,54.728
+2015,3,Santa Cruz,54.965
+2015,3,Santa Fe,613.455
+2015,3,Santiago del Estero,99.599
+2015,3,Tierra del Fuego,37.053
+2015,3,Tucumán,122.680
+2015,2,Buenos Aires,2.522.599
+2015,2,Capital Federal,693.278
+2015,2,Catamarca,28.518
+2015,2,Chaco,91.438
+2015,2,Chubut,68.762
+2015,2,Córdoba,979.028
+2015,2,Corrientes,91.645
+2015,2,Entre Ríos,153.882
+2015,2,Formosa,46.356
+2015,2,Jujuy,83.523
+2015,2,La Pampa,82.878
+2015,2,La Rioja,25.403
+2015,2,Mendoza,116.704
+2015,2,Misiones,116.298
+2015,2,Neuquén,111.237
+2015,2,Río Negro,58.204
+2015,2,Salta,169.164
+2015,2,San Juan,43.565
+2015,2,San Luis,55.558
+2015,2,Santa Cruz,54.155
+2015,2,Santa Fe,611.604
+2015,2,Santiago del Estero,98.712
+2015,2,Tierra del Fuego,36.057
+2015,2,Tucumán,121.485
+2015,1,Buenos Aires,2.502.399
+2015,1,Capital Federal,690.175
+2015,1,Catamarca,28.098
+2015,1,Chaco,91.617
+2015,1,Chubut,68.561
+2015,1,Córdoba,974.705
+2015,1,Corrientes,90.410
+2015,1,Entre Ríos,151.985
+2015,1,Formosa,46.316
+2015,1,Jujuy,80.056
+2015,1,La Pampa,81.292
+2015,1,La Rioja,25.553
+2015,1,Mendoza,115.783
+2015,1,Misiones,114.278
+2015,1,Neuquén,111.183
+2015,1,Río Negro,57.497
+2015,1,Salta,168.225
+2015,1,San Juan,43.939
+2015,1,San Luis,55.603
+2015,1,Santa Cruz,54.518
+2015,1,Santa Fe,604.333
+2015,1,Santiago del Estero,98.247
+2015,1,Tierra del Fuego,35.399
+2015,1,Tucumán,119.332
+2014,4,Buenos Aires,2.492.829
+2014,4,Capital Federal,690.404
+2014,4,Catamarca,28.249
+2014,4,Chaco,91.003
+2014,4,Chubut,68.381
+2014,4,Córdoba,976.250
+2014,4,Corrientes,91.210
+2014,4,Entre Ríos,151.868
+2014,4,Formosa,46.590
+2014,4,Jujuy,79.331
+2014,4,La Pampa,79.733
+2014,4,La Rioja,26.337
+2014,4,Mendoza,116.149
+2014,4,Misiones,112.595
+2014,4,Neuquén,154.765
+2014,4,Río Negro,58.053
+2014,4,Salta,166.843
+2014,4,San Juan,42.970
+2014,4,San Luis,55.289
+2014,4,Santa Cruz,44.012
+2014,4,Santa Fe,652.071
+2014,4,Santiago del Estero,98.334
+2014,4,Tierra del Fuego,34.741
+2014,4,Tucumán,120.037
+2014,3,Buenos Aires,2.479.337
+2014,3,Capital Federal,689.381
+2014,3,Catamarca,27.544
+2014,3,Chaco,85.608
+2014,3,Chubut,68.472
+2014,3,Córdoba,975.850
+2014,3,Corrientes,89.802
+2014,3,Entre Ríos,150.597
+2014,3,Formosa,46.428
+2014,3,Jujuy,73.976
+2014,3,La Pampa,77.927
+2014,3,La Rioja,24.594
+2014,3,Mendoza,116.918
+2014,3,Misiones,115.847
+2014,3,Neuquén,154.805
+2014,3,Río Negro,58.165
+2014,3,Salta,166.681
+2014,3,San Juan,42.753
+2014,3,San Luis,54.824
+2014,3,Santa Cruz,43.728
+2014,3,Santa Fe,654.067
+2014,3,Santiago del Estero,97.796
+2014,3,Tierra del Fuego,35.025
+2014,3,Tucumán,119.720
+2014,2,Buenos Aires,2.477.696
+2014,2,Capital Federal,692.311
+2014,2,Catamarca,27.382
+2014,2,Chaco,85.726
+2014,2,Chubut,68.578
+2014,2,Córdoba,974.174
+2014,2,Corrientes,88.423
+2014,2,Entre Ríos,148.123
+2014,2,Formosa,46.553
+2014,2,Jujuy,71.984
+2014,2,La Pampa,76.732
+2014,2,La Rioja,25.071
+2014,2,Mendoza,116.281
+2014,2,Misiones,114.366
+2014,2,Neuquén,154.762
+2014,2,Río Negro,58.097
+2014,2,Salta,166.019
+2014,2,San Juan,42.146
+2014,2,San Luis,55.697
+2014,2,Santa Cruz,46.547
+2014,2,Santa Fe,650.114
+2014,2,Santiago del Estero,96.849
+2014,2,Tierra del Fuego,34.726
+2014,2,Tucumán,120.165
+2014,1,Buenos Aires,2.363.240
+2014,1,Capital Federal,691.440
+2014,1,Catamarca,18.239
+2014,1,Chaco,88.112
+2014,1,Chubut,68.671
+2014,1,Córdoba,511.023
+2014,1,Corrientes,61.056
+2014,1,Entre Ríos,109.137
+2014,1,Formosa,30.013
+2014,1,Jujuy,64.535
+2014,1,La Pampa,67.773
+2014,1,La Rioja,25.108
+2014,1,Mendoza,106.933
+2014,1,Misiones,99.220
+2014,1,Neuquén,105.837
+2014,1,Río Negro,40.129
+2014,1,Salta,123.120
+2014,1,San Juan,42.011
+2014,1,San Luis,16.869
+2014,1,Santa Cruz,21.133
+2014,1,Santa Fe,546.523
+2014,1,Santiago del Estero,92.972
+2014,1,Tierra del Fuego,29.886
+2014,1,Tucumán,111.552
