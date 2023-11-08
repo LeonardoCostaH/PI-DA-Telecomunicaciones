@@ -8,134 +8,79 @@
  
 # <h1 align="center">**`Telecomunicaciones`**</h1>
 
-¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
-<p align='center'>
-<img src="https://newses.cgtn.com/n/BfJIA-CAA-HAA/BceGDAA.jpg"  height=300>
-<p>
+# Análisis de Oportunidades de Expansión en el Mercado de Telecomunicaciones en Argentina
 
-## **Descripción del problema -contexto y rol a desarrollar-**
+## Objetivo del Proyecto
+El objetivo principal de este análisis es identificar oportunidades de expansión en el mercado de telecomunicaciones en Argentina. En particular, nos centraremos en analizar la demanda insatisfecha de servicios de Internet y telefonía en diferentes provincias del país. A través de visualizaciones y datos detallados, exploraremos las tendencias y patrones que surgieron de nuestro análisis.
 
-### **Contexto**
+## Análisis Visual
 
-Las telecomunicaciones se refieren a la transmisión de información a través de medios electrónicos, como la telefonía, la televisión, la radio y, más recientemente, el internet. Estos medios de comunicación permiten la transmisión de información entre personas, organizaciones y dispositivos a largas distancias.
+### Análisis de Tecnologías por Provincia
 
-El internet, por su parte, es una red global de computadoras interconectadas que permite el intercambio de información en tiempo real. Desde su creación, ha tenido un impacto significativo en la vida de las personas, transformando la manera en que nos comunicamos, trabajamos, aprendemos y nos entretenemos.
+![Gráfico: Cantidad de hogares sin las tecnologías por provincia(Cada 100 hogares)](img/Cantidad%20de%20hogares%20sin%20las%20tecnolog%C3%ADas%20por%20provincia(Cada%20100%20hogares).png)
 
-La industria de las telecomunicaciones ha jugado un papel vital en nuestra sociedad, facilitando la información a escala internacional y permitiendo la comunicación continua incluso en medio de una pandemia mundial. La transferencia de datos y comunicación se realiza en su mayoría a través de internet, líneas telefónicas fijas, telefonía móvil, y en casi cualquier lugar del mundo. 
+- **Buenos Aires Lidera en la Mayoría de las Categorías:** La provincia de Buenos Aires tiene un número significativamente mayor de conexiones en la mayoría de las categorías de tecnologías en comparación con otras provincias. Es especialmente destacable en las categorías de 4G y 3G.
+- **Distribución Uniforme en CABA:** La Ciudad Autónoma de Buenos Aires (CABA) parece tener una distribución bastante uniforme de tecnologías, con números iguales en todas las categorías.
+- **Tecnologías Móviles:** Tecnologías como 4G y 3G son comunes en la mayoría de las provincias, lo que sugiere una amplia cobertura de Internet móvil en todo el país.
+- **Telefonía Fija y Satelital:** Las tecnologías de telefonía fija y satelital son menos comunes en comparación con otras tecnologías en la mayoría de las provincias.
+- **Fibra Óptica en Crecimiento:** La fibra óptica muestra una presencia significativa en muchas provincias, lo que sugiere un crecimiento en la adopción de esta tecnología de alta velocidad.
 
-En comparación con la media mundial, Argentina está a la vanguardia en el desarrollo de las telecomunicaciones, teniendo para el 2020 un total de [62,12 millones de conexiones](https://www.datosmundial.com/america/argentina/telecomunicacion.php). 
+### Comparación de Tecnologías Actuales y Atrasadas por Provincia
 
+![Gráfico: Comparación de Tecnologías Actuales y Atrasadas por Provincia](img/Comparación%20de%20Tecnolog%C3%ADas%20Actuales%20y%20Atrasadas%20por%20Provincia.png)
 
-### **Rol a desarrollar**
+- **Brecha Digital en Provincias Centrales:** Las provincias de Buenos Aires, Córdoba, Entre Ríos, Formosa, Jujuy, La Rioja, Mendoza, Misiones, San Juan, San Luis, Santa Fe, Tierra del Fuego y Tucumán muestran una predominancia de tecnologías "actuales". Esto sugiere un mayor acceso a tecnologías de Internet más avanzadas en estas regiones, lo que es fundamental para el desarrollo económico y social.
+- **Equilibrio en Algunas Provincias:** En provincias como Chaco, Chubut, Neuquén, Salta y Santiago del Estero, se observa una distribución equilibrada entre tecnologías "actuales" y "desactualizadas".
+- **Necesidad de Actualización en Ciertas Regiones:** En CABA, La Pampa y Santa Cruz, prevalecen las tecnologías "desactualizadas". Esto sugiere la necesidad de invertir en la actualización de infraestructuras de conexión a Internet en estas provincias para brindar a los residentes acceso a tecnologías más modernas y veloces.
 
-En este contexto, una empresa prestadora de servicios de telecomunicaciones le encarga a usted la realización de un **análisis** completo que permita reconocer el comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar **acceso a internet**, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
+### Distribución de Accesos por cada 100 Hogares
 
-## **Propuesta de trabajo -mínimos entregables-**
-*Es importante que a la hora de empezar a desarrollar cada item, y tu demo, te ayudes tambien de la [rúbrica de evaluación](https://docs.google.com/spreadsheets/d/e/2PACX-1vTV3zL1aeGRlbXkiy5012GWbDBMseA4iziMXs597TZfgaYgazjxZDx_-q6L4s9io3JW4UPHcZs_XNyz/pubhtml).* 😄
+![Gráfico: Distribución de Accesos por cada 100 Hogares](img/Distribuci%C3%B3n%20de%20Accesos%20por%20cada%20100%20hogares.png)
 
-`EDA` (Exploratory Data Analysis)
+- **Concentración en el Rango de 40 a 70:** La mayor concentración de datos se encuentra en el rango de 40 a 70, donde la frecuencia oscila entre 60 y 80. Esto indica que la mayoría de las observaciones caen en esta franja de valores, lo que puede sugerir un comportamiento común o una tendencia en esa región de datos.
+- **Frecuencia Elevada en el Rango de 30 a 40:** El rango de 30 a 40 muestra una frecuencia ligeramente superior a 100, lo que señala una concentración significativa de datos en este rango.
+- **Distribución más Uniforme entre 10 y 30, y 70 y 85:** Los rangos de 10 a 30 y 70 a 85 muestran una distribución más uniforme con frecuencias entre 40 y 60.
+- **Valores Extremos con Bajas Frecuencias:** Los valores extremos, es decir, aquellos por debajo de 10 y por encima de 90, muestran bajas frecuencias.
 
-Debes realizar un análisis exploratorio de los datos en un notebook. Tienen que estar tus pasos documentados con claridad, con las conclusiones correspondientes en cada gráfico empleado y análisis de lo que vas observando, utilizando celdas Markdown para tal fin. La prolijidad del notebook será un aspecto a evaluar. Es importante que tengas en cuenta que, en muchas oportunidades y trabajos, un EDA constituye un entregable en sí mismo.
+### Evolución de Accesos por cada 100 Hogares a lo largo de los años
 
-En esta línea, hay varios aspectos indispensables que **deben** ser abordados en cualquier Análisis Exploratorio de Datos y tomaremos como punto de partida para evaluar tu performance en este apartado. Entre estos aspectos destacados se encuentran: *búsqueda de valores faltantes, valores atípicos/extremos u outliers y registros duplicados*. Asimismo, la utilización de gráficos coherentes según la tipología de variable que corresponda resulta esencial.
+![Gráfico: Evolución de Accesos por cada 100 Hogares a lo largo de los años](Evoluci%C3%B3n%20de%20Accesos%20por%20cada%20100%20hogares%20a%20lo%20largo%20de%20los%20a%C3%B1os.png)
 
-***En caso de hacer uso de librerías como pandas_profiling, es indispensable acompañar los gráficos con análisis propios.***
+- **Crecimiento Constante entre 2014 y 2016:** Durante el período de 2014 a 2016, hubo un crecimiento constante en la cantidad de accesos por cada 100 hogares, aunque este crecimiento fue relativamente pequeño.
+- **Aumento Sostenido de 2016 a 2019:** Entre 2016 y 2019, se observa un aumento en la tasa de acceso por cada 100 hogares, y este aumento es más significativo en comparación con el período anterior.
+- **Aumento Significativo a Partir de 2019:** A partir de 2019, se produce un aumento sustancial en la tasa de acceso por cada 100 hogares, lo que sugiere un crecimiento más acelerado.
 
-`Dashboard`
+### Accesos por cada 100 Hogares por Provincia (Comparación Gráfico de Barras)
 
-Debe ser funcional y coherente con el storytelling. El dasbhoard tiene que incluir **filtros**, permitiendo explorar detalladamente los datos con la selección de cada uno de ellos. Es decir, es indispensable que sea **interactivo**. También, se espera que el diseño que implementen facilite la interpretación de la información y su análisis, siendo importante, para ello, la claridad en la presentación de los datos, aspectos inherentes a la esteticidad, elección coherente de los gráficos según las variables a visualizar, entre otros ítems. 
+![Gráfico: Distribución de Accesos por cada 100 Hogares (barras)](Distribuci%C3%B3n%20de%20Accesos%20por%20cada%20100%20Hogares%20(barras).png)
 
-`Análisis` :warning:
+- **Alta Conectividad en la Capital Federal (CABA):** La Ciudad Autónoma de Buenos Aires (CABA) sobresale significativamente con más de 4000 accesos por cada 100 hogares.
+- **Provincias con Conectividad Intermedia:** Varias provincias tienen una cantidad de accesos por cada 100 hogares que varía entre 1500 y 3000, lo que indica un nivel de conectividad intermedio.
+- **Provincias con Conectividad Moderada a Baja:** En algunas provincias, la cantidad de accesos por cada 100 hogares oscila entre 1500 y 1000, descendiendo en ese orden.
+- **Formosa con Menos de 1000 Accesos:** Formosa es la provincia que muestra la menor cantidad de accesos por cada 100 hogares, con menos de 1000.
 
-No se considerará solamente la producción de gráficos con datos -dashboard-, sino también los análisis y conclusiones que puedan extraer a partir de ellos.
+## Uso de Tecnologías
 
-`KPIs`
+Este análisis se llevó a cabo utilizando una variedad de tecnologías, incluyendo:
 
-Debes graficar y medir el KPI propuesto a continuación, representándolo adecuadamente en el dashboard. A su vez, tambíen tienes que proponer, medir y graficar un segundo KPI que consideres relevante para la temática. 
-El KPI propuesto es:
-- *Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia*.
-La fórmula es la siguiente:
+- **Jupyter:** Se utilizó Jupyter Notebook para escribir y ejecutar código Python de manera interactiva, lo que permitió un análisis eficiente de los datos.
 
- $`KPI = ((Nuevo acceso - Acceso actual) / Acceso actual) * 100`$
- 
-Donde:
+- **Pandas:** La biblioteca Pandas se utilizó para la manipulación y análisis de datos. Facilitó la limpieza, filtrado y agregación de datos para su posterior visualización.
 
-- "Nuevo acceso" se refiere al número de hogares con acceso a Internet después del próximo trimestre.
-- "Acceso actual" se refiere al número de hogares con acceso a Internet en el trimestre actual.
+- **NumPy:** NumPy se empleó para realizar cálculos numéricos y operaciones en matrices, lo que resultó útil en diversas partes del análisis.
 
-Esta fórmula te ayudará a calcular el KPI para medir el aumento en el acceso a Internet por cada 100 hogares en cada provincia.
+- **Matplotlib:** Matplotlib fue la herramienta de elección para la creación de visualizaciones, incluyendo gráficos de barras, gráficos de líneas y gráficos de distribución.
 
-**Ejemplo de uso:**
+- **Power BI:** Para llevar a cabo el seguimiento y presentación de los indicadores clave de rendimiento (KPIs) propuestos, se utilizó Power BI, lo que permitió una visualización efectiva y dinámica de los datos.
 
-KPI = ((510 - 500) / 500) * 100 = 2%
+## Indicadores Clave de Desempeño (KPIs)
 
-Esto indicaría un aumento del 2% en el acceso a Internet en esa provincia para el próximo trimestre.
+KPI Propuesto: "Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia."
 
-`MUY IMPORTANTE` repasar qué es un KPI y cómo se diferencia de una métrica convencional. En el material de apoyo tienen lectura que puede ser de ayuda.</small>
+KPI Propuesto por el Analista: "Penetración de Internet por Provincia: Calcula el porcentaje de hogares con acceso a Internet en cada provincia de Argentina y utiliza este KPI para identificar las provincias con la demanda insatisfecha de servicios de Internet." Estos KPIs se desarrollarán en un dashboard en Power BI para un seguimiento continuo.
 
-`Repositorio de GitHub`
+## Contacto
 
-El repositorio debe contener un **Readme** principal donde presenten, en una primera instancia, de forma general **su proyecto** y detallen qué hay en cada archivo/carpeta del propio repositorio. Este Readme no puede ser el mismo de la consigna que nosotros les entregamos.
-A su vez, el Readme debe incluir un **reporte de análisis con base en sus dashboards**, así como el análisis y la funcionalidad de los KPIs sugeridos.
-
-### _**Desafíate y no te quedes siendo Junior, sé Junior Advanced**_
-
-Pensando en alcanzar tu Boom 🚀, te recomendamos incorporar los siguientes desafíos para tener un portfolio mucho más completo y competitivo:
-
-- Crear una base de datos en un motor SQL, ingestar el dataset procesado y utilizarla como fuente de datos de su dashboard en Power BI (o la herramienta de visualización que utilice).
-- Ejecutar scripts de Python en la herramienta de visualización de datos escogida.
-- Cruce de datos con datasets complementarios, ya sea para obtener información nueva o poder comparar la información disponible en el dataset obligatorio. 
-
-<sub> Nota: la realización de uno o más de estos ítems no es intercambiable con los requerimientos mínimos establecidos en la sección anterior "Propuesta de trabajo". Empiece con esta sección una vez haya cumplido con los requerimientos mínimos, a modo de desafiarse a usted mismo y destacar frente al resto.</sub>
-
-## Fuente de datos
-**Obligatorio:**
-
-- [Datasets principales](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) -se sugiere el uso de la API para traerse los datos-
-
-**Complementario:**
-- [Datasets complementarios](https://datosabiertos.enacom.gob.ar/home)
-
-- Cualquier dataset de búsqueda propia que complemente y mejore el análisis.
-
-<h1>Lo que tendremos en cuenta a la hora de evaluar</h1>
-
-Serás evaluado en dos grandes áreas  `Tech` y `Soft`!
-
-Ambas con igual peso entre si y ambas deben ser aprobatorias para tener la calidad de aprobado en este PIDA. Ten presente que una nota mínima para aprobar significa tener TODOS los items como "Bueno" 👌
-A continuación te facilitamos nuevamente la [rúbrica de evaluación](https://docs.google.com/spreadsheets/d/e/2PACX-1vTV3zL1aeGRlbXkiy5012GWbDBMseA4iziMXs597TZfgaYgazjxZDx_-q6L4s9io3JW4UPHcZs_XNyz/pubhtml) con la que serás evaluado por tu corrector@. Recuerda que el feedback de tu corrector@ no es en ningun momento un indicativo de tu nota. Si tienes alguna duda durante tu DEMO, pídele a tu corrector@ que te aclare claramente cuales son los objetivos de aprendizaje no cumplidos.
-
-Esperamos que te sirva de guía de aprendizaje, y recuerda que no se trata solo de cumplir requisitos, sino de destacar en cada nivel 🚀 💛
-
-
-## Material de apoyo
-
-#### Tech
-- [Repaso de clase sobre EDA](https://www.students.soyhenry.com/classes/100?cohortId=106&videoOrdinal=1)
-- [Code Review: **Interactividad** Dashboard, Patron Z, **Tooltips**](https://www.students.soyhenry.com/classes/93?cohortId=124&videoOrdinal=2)
-- [KPI's 4 students](https://docs.google.com/document/d/1DI0ZVgHfOfjgnXGhi8jEKzwCIjtUdgRUDe-qiiGGq8E/edit)
-- [Code Review: DAX y **medidas calculadas**](https://www.students.soyhenry.com/classes/96?cohortId=124&videoOrdinal=2)
-
-#### Soft
-- ¡Todos los Workshops de esta etapa serán de gran utilidad para tener un proyecto exitoso!
-
-
-## ***Recomendaciones finales***
-
-¡No debes mostrar nada de código en la exposición! Te recomendamos el workshop *From Data to Viz* para que te quede más claro la dinámica y lo que se espera de tu demo.
-
-Recuerda ser puntual y probar el correcto funcionamiento de las herramientas empleadas ***antes*** de ingresar a la meet.
-
-La **DEMO**, donde defenderás tu proyecto, se realizará el día jueves o viernes. Debes estar atent@ a tu *calendar* para ver qué día y horario te corresponde. 
-
-Esta demo tendrá una duración total máxima de 30 minutos, de los cuales **sólo 10 minutos serán para tu presentación**.  Es importante que sepas **gestionar bien tu tiempo** y tengas un speech ya preparado de 10 minutos, ya que el tiempo restante será dedicado a la corrección, revisión de repositorio y feedback por parte del Henry Mentor.
-
-
-
-## Disclaimer
-De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulen un entorno laboral, en el cual se trabajen diversas temáticas ajustadas a la realidad. No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. Toda la información expuesta y resultados obtenidos en los proyectos nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).
-  
-  
-<p align='center'>
-<img src ="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif" height=250>
-<p>
+- Nombre: Leonardo Augusto Costa Hermes
+- Correo Electrónico: lcostahermes@gmail.com
+- LinkedIn: [linkedin.com/in/leonardo-costa-672a3a1b9](https://www.linkedin.com/in/leonardo-costa-672a3a1b9)
