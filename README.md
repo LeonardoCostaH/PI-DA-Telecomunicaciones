@@ -2,6 +2,8 @@
 <img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
 <p>
 
+<p align="center"><img src="img/telecomunicaciones-redes-inteligentes-.jpg" align="middle"><p>
+
 <h1 align='center'>
  <b>PROYECTO INDIVIDUAL Nº2</b>
 </h1>
@@ -35,7 +37,7 @@ El objetivo principal de este análisis es identificar oportunidades de expansi�
 
 ### Distribución de Accesos por cada 100 Hogares
 
-![Gráfico: Distribución de Accesos por cada 100 Hogares](img/Distribuci%C3%B3n%20de%20Accesos%20por%20cada%20100%20hogares.png)
+<img src="img/Distribución_de_Accesos_por_cada_100_hogares.png">
 
 - **Concentración en el Rango de 40 a 70:** La mayor concentración de datos se encuentra en el rango de 40 a 70, donde la frecuencia oscila entre 60 y 80. Esto indica que la mayoría de las observaciones caen en esta franja de valores, lo que puede sugerir un comportamiento común o una tendencia en esa región de datos.
 - **Frecuencia Elevada en el Rango de 30 a 40:** El rango de 30 a 40 muestra una frecuencia ligeramente superior a 100, lo que señala una concentración significativa de datos en este rango.
@@ -44,7 +46,8 @@ El objetivo principal de este análisis es identificar oportunidades de expansi�
 
 ### Evolución de Accesos por cada 100 Hogares a lo largo de los años
 
-![Gráfico: Evolución de Accesos por cada 100 Hogares a lo largo de los años](Evoluci%C3%B3n%20de%20Accesos%20por%20cada%20100%20hogares%20a%20lo%20largo%20de%20los%20a%C3%B1os.png)
+
+<img src="img/Evolución de Accesos por cada 100 hogares a lo largo de los años.png">
 
 - **Crecimiento Constante entre 2014 y 2016:** Durante el período de 2014 a 2016, hubo un crecimiento constante en la cantidad de accesos por cada 100 hogares, aunque este crecimiento fue relativamente pequeño.
 - **Aumento Sostenido de 2016 a 2019:** Entre 2016 y 2019, se observa un aumento en la tasa de acceso por cada 100 hogares, y este aumento es más significativo en comparación con el período anterior.
@@ -52,7 +55,7 @@ El objetivo principal de este análisis es identificar oportunidades de expansi�
 
 ### Accesos por cada 100 Hogares por Provincia (Comparación Gráfico de Barras)
 
-![Gráfico: Distribución de Accesos por cada 100 Hogares (barras)](Distribuci%C3%B3n%20de%20Accesos%20por%20cada%20100%20Hogares%20(barras).png)
+<img src="img/Distribución de Accesos por cada 100 hogares (barras).png">
 
 - **Alta Conectividad en la Capital Federal (CABA):** La Ciudad Autónoma de Buenos Aires (CABA) sobresale significativamente con más de 4000 accesos por cada 100 hogares.
 - **Provincias con Conectividad Intermedia:** Varias provincias tienen una cantidad de accesos por cada 100 hogares que varía entre 1500 y 3000, lo que indica un nivel de conectividad intermedio.
@@ -75,9 +78,11 @@ Este análisis se llevó a cabo utilizando una variedad de tecnologías, incluye
 
 ## Indicadores Clave de Desempeño (KPIs)
 
-KPI Propuesto: "Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia."
+- KPI Propuesto: "Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia."
 
-KPI Propuesto por el Analista: "Penetración de Internet por Provincia: Calcula el porcentaje de hogares con acceso a Internet en cada provincia de Argentina y utiliza este KPI para identificar las provincias con la demanda insatisfecha de servicios de Internet." Estos KPIs se desarrollarán en un dashboard en Power BI para un seguimiento continuo.
+- KPI Propuesto por el Analista: "Penetración de Internet por Provincia: Calcula el porcentaje de hogares con acceso a Internet en cada provincia de Argentina y utiliza este KPI para identificar las provincias con la demanda insatisfecha de servicios de Internet." 
+
+    -Estos KPIs se desarrollarán en un dashboard en Power BI para un seguimiento continuo.
 
 ## Contacto
 
