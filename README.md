@@ -1,10 +1,6 @@
 <p align="center"><img src="img/telecomunicaciones-redes-inteligentes-.jpg" align="middle"><p>
-
-<h1 align='center'>
- <b>PROYECTO INDIVIDUAL Nº2</b>
-</h1>
  
-# <h1 align="center">**`Telecomunicaciones`**</h1>
+# <h1 align="center">**`Análisis de Telecomunicaciones en Argentina`**</h1>
 
 # Análisis de Oportunidades de Expansión en el Mercado de Telecomunicaciones en Argentina
 
