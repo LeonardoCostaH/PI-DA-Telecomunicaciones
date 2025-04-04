@@ -1,11 +1,29 @@
 <p align="center"><img src="img/telecomunicaciones-redes-inteligentes-.jpg" align="middle"><p>
  
-# <h1 align="center">**`Análisis de Telecomunicaciones en Argentina`**</h1>
+# <h1 align="center">**`Panorama Actual y Potencial de las Telecomunicaciones en Argentina`**</h1>
 
-# Análisis de Oportunidades de Expansión en el Mercado de Telecomunicaciones en Argentina
+# Índice
 
-## Objetivo del Proyecto
-El objetivo principal de este análisis es identificar oportunidades de expansión en el mercado de telecomunicaciones en Argentina. En particular, nos centraremos en analizar la demanda insatisfecha de servicios de Internet y telefonía en diferentes provincias del país. A través de visualizaciones y datos detallados, exploraremos las tendencias y patrones que surgieron de nuestro análisis.
+- [Descripción del trabajo realizado](#descripción-del-trabajo-realizado)
+- [Análisis Visual](#análisis-visual)
+  - [Análisis de Tecnologías por Provincia](#análisis-de-tecnologías-por-provincia)
+  - [Comparación de Tecnologías Actuales y Atrasadas por Provincia](#comparación-de-tecnologías-actuales-y-atrasadas-por-provincia)
+  - [Distribución de Accesos por cada 100 Hogares](#distribución-de-accesos-por-cada-100-hogares)
+  - [Evolución de Accesos por cada 100 Hogares a lo largo de los años](#evolución-de-accesos-por-cada-100-hogares-a-lo-largo-de-los-años)
+  - [Accesos por cada 100 Hogares por Provincia (Gráfico de Barras)](#accesos-por-cada-100-hogares-por-provincia-gráfico-de-barras)
+- [Uso de Tecnologías](#uso-de-tecnologías)
+- [Indicadores Clave de Desempeño (KPIs)](#indicadores-clave-de-desempeño-kpis)
+- [🧠 Impresión Final del Proyecto](#🧠-impresión-final-del-proyecto)
+  - [🔍 Hallazgos Principales](#🔍-hallazgos-principales)
+  - [✅ Conclusión](#✅-conclusión)
+- [Contacto](#contacto)
+
+## Descripción del trabajo realizado
+En el marco de un proyecto orientado a la exploración del mercado de telecomunicaciones en Argentina, se llevó a cabo un análisis detallado con el fin de identificar oportunidades de expansión en la provisión de servicios de Internet y telefonía. El enfoque principal estuvo puesto en detectar zonas con demanda insatisfecha, especialmente a nivel provincial, para entender dónde existen brechas significativas en el acceso a estos servicios esenciales.
+
+El estudio se sustentó en el procesamiento y la visualización de datos provenientes de distintas fuentes confiables, lo cual permitió revelar patrones de cobertura, disparidades regionales y tendencias de consumo. A través de gráficos interactivos y análisis exploratorio, se buscó aportar información valiosa que pueda servir como insumo estratégico para la toma de decisiones en el sector.
+
+A continuación, se presentan los principales hallazgos derivados de este análisis.
 
 ## Análisis Visual
 
@@ -76,8 +94,35 @@ Este análisis se llevó a cabo utilizando una variedad de tecnologías, incluye
 
     -Estos KPIs se desarrollarán en un dashboard en Power BI para un seguimiento continuo.
 
+# 🧠 Impresión Final del Proyecto
+
+El análisis exhaustivo del panorama de telecomunicaciones en Argentina revela tanto los avances significativos como los desafíos persistentes en términos de acceso y calidad del servicio. A través de una visualización clara y el uso de herramientas modernas como Python, Jupyter y Power BI, fue posible identificar disparidades regionales, tendencias de crecimiento y oportunidades de mejora.
+
+## 🔍 Hallazgos Principales
+
+- **Brecha Tecnológica Regional:**  
+  Provincias como Buenos Aires, Córdoba y Mendoza presentan un nivel de penetración tecnológica superior, mientras que regiones como Formosa y Santa Cruz muestran una menor adopción de tecnologías modernas, evidenciando una brecha digital significativa.
+
+- **Crecimiento Acelerado desde 2019:**  
+  La evolución de los accesos por cada 100 hogares muestra un crecimiento notable a partir de 2019, reflejando un avance en la infraestructura o mayor demanda por conectividad.
+
+- **CABA como Caso Particular:**  
+  A pesar de ser la región con mayor cantidad de accesos por hogar, CABA presenta un predominio de tecnologías desactualizadas, indicando una posible saturación o falta de renovación tecnológica.
+
+- **Adopción de Fibra Óptica en Expansión:**  
+  La presencia creciente de fibra óptica en varias provincias sugiere una transición hacia tecnologías de mayor velocidad, lo que representa una oportunidad estratégica para inversión y expansión.
+
+- **KPI Estratégico Propuesto:**  
+  Se estableció como objetivo incrementar en un 2% el acceso a Internet por cada 100 hogares en cada provincia, apoyándose en dashboards dinámicos para el seguimiento continuo.
+
+## ✅ Conclusión
+
+En resumen, este trabajo no solo ofrece una radiografía del estado actual del sector, sino que también sienta las bases para la planificación de acciones concretas y sustentables que contribuyan a una conectividad más equitativa y eficiente en todo el país.
+
+---
+
 ## Contacto
 
 - Nombre: Leonardo Augusto Costa Hermes
 - Correo Electrónico: lcostahermes@gmail.com
-- LinkedIn: [/in/leonardo-costa-672a3a1b9](https://www.linkedin.com/in/leonardo-c-hermes)
+- LinkedIn: [/in/leonardo-c-hermes/](https://www.linkedin.com/in/leonardo-c-hermes)
