@@ -1,7 +1,3 @@
-<p align='center'>
-<img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
-<p>
-
 <p align="center"><img src="img/telecomunicaciones-redes-inteligentes-.jpg" align="middle"><p>
 
 <h1 align='center'>
